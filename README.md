@@ -18,6 +18,24 @@
 
 Happy coding! 🖥️
 
+| Library/Framework     | Icon                                                      |
+|----------------------|-----------------------------------------------------------|
+| React                | ![React]([icon-li](https://react.dev/))                                     |
+| Python               | ![Python](icon-link)                                    |
+| Node.js              | ![Node.js](icon-link)                                   |
+| Java                 | ![Java](icon-link)                                      |
+| JavaScript           | ![JavaScript](icon-link)                                |
+| Bootstrap            | ![Bootstrap](icon-link)                                 |
+| PostgreSQL           | ![PostgreSQL](icon-link)                                |
+| TensorFlow           | ![TensorFlow](icon-link)                                |
+| Docker               | ![Docker](icon-link)                                    |
+| Git                  | ![Git](icon-link)                                       |
+| Visual Studio Code   | ![VS Code](icon-link)                                   |
+| MySQL                | ![MySQL](icon-link)                                    |
+| HTML/CSS             | ![HTML/CSS](icon-link)                                  |
+| Flask                | ![Flask](icon-link)                                     |
+| Angular              | ![Angular](icon-link)                                   |
+
 
 <!--
 **Zuker-nie/zuker-nie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
