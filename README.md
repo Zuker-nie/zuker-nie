@@ -37,7 +37,7 @@ Happy coding! 🖥️
 | Figma              | ![Figma](icon-link)                                   |
 | IntelliJ              | ![IntelliJ](icon-link)                                   |
 | Eclipse              | ![Eclipse](icon-link)                                   |
-| Atom              |  [image](https://github.com/Zuker-nie/zuker-nie/assets/36371577/167d07ef-c74b-49e3-9a95-7d4bf7404c57)|
+| Atom              |  ![image](https://github.com/Zuker-nie/zuker-nie/assets/36371577/167d07ef-c74b-49e3-9a95-7d4bf7404c57)|
 | Bash              | ![image](https://github.com/Zuker-nie/zuker-nie/assets/36371577/174a8373-00e0-41d6-95e3-c6dcfe429ad8)
                                |
 
