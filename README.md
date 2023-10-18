@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- ✨ Hello, I'm Zuker Ellison Nie Chen, a passionate developer on a mission to transform innovative ideas into practical solutions through code.  ✨ 
+ ✨ Hello, I'm Zuker Ellison Nie Chen, a passionate developer on a mission to transform innovative ideas into practical solutions through code. ✨ 
 
 💻 My journey through the world of technology has been nothing short of exhilarating. With a background in Web Development, I've had the privilege of working on projects that range from making an analytics tool for ads to a simple personal trainer web application. Each experience has been a step on my path to becoming a well-rounded developer.
 
