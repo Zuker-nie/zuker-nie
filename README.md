@@ -18,23 +18,26 @@
 
 Happy coding! 🖥️
 
-| Library/Framework     | Icon                                                      |
+| Frameworks & Tools     | Icon                                                      |
 |----------------------|-----------------------------------------------------------|
 | React                | ![React]([icon-li](https://react.dev/))                                     |
-| Python               | ![Python](icon-link)                                    |
+| TypeScript             | ![TypeScript](icon-link)                                   |
 | Node.js              | ![Node.js](icon-link)                                   |
 | Java                 | ![Java](icon-link)                                      |
 | JavaScript           | ![JavaScript](icon-link)                                |
 | Bootstrap            | ![Bootstrap](icon-link)                                 |
-| PostgreSQL           | ![PostgreSQL](icon-link)                                |
-| TensorFlow           | ![TensorFlow](icon-link)                                |
-| Docker               | ![Docker](icon-link)                                    |
+| HTML/CSS           | ![HTML/CSS](icon-link)                                |
+| TailwindCSS          | ![TailwindCSS](icon-link)                                |
+| MySQL               | ![MySQL](icon-link)                                    |
 | Git                  | ![Git](icon-link)                                       |
 | Visual Studio Code   | ![VS Code](icon-link)                                   |
 | MySQL                | ![MySQL](icon-link)                                    |
-| HTML/CSS             | ![HTML/CSS](icon-link)                                  |
-| Flask                | ![Flask](icon-link)                                     |
-| Angular              | ![Angular](icon-link)                                   |
+| SQL            | ![SQL](icon-link)                                  |
+| MongoDB                | ![MongoDB](icon-link)                                     |
+| Figma              | ![Figma](icon-link)                                   |
+| IntelliJ              | ![IntelliJ](icon-link)                                   |
+| Eclipse              | ![Eclipse](icon-link)                                   |
+
 
 
 <!--
