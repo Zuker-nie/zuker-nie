@@ -37,7 +37,7 @@ Happy coding! 🖥️
 | Figma              | ![Figma](icon-link)                                   |
 | IntelliJ              | ![IntelliJ](icon-link)                                   |
 | Eclipse              | ![Eclipse](icon-link)                                   |
-| Atom              | ![Atom]([icon-link](https://camo.githubusercontent.com/847de5c9858abafa2fb04ee0177b488cb1de7f6de2855ea68f2f51cce42c2288/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f61746f6d2e737667))                                   |
+| Atom              | ![[Atom](https://camo.githubusercontent.com/847de5c9858abafa2fb04ee0177b488cb1de7f6de2855ea68f2f51cce42c2288/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f61746f6d2e737667)]([icon-link](https://camo.githubusercontent.com/847de5c9858abafa2fb04ee0177b488cb1de7f6de2855ea68f2f51cce42c2288/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f61746f6d2e737667))                                   |
 
 
 
