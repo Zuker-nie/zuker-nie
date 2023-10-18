@@ -32,12 +32,12 @@ Happy coding! 🖥️
 | MongoDB                | ![image](https://github.com/Zuker-nie/zuker-nie/assets/36371577/361b55b7-3ac8-42ae-a118-8c28d9550385)|
 | Atom              |  ![image](https://github.com/Zuker-nie/zuker-nie/assets/36371577/167d07ef-c74b-49e3-9a95-7d4bf7404c57)|
 | Bash              | ![image](https://github.com/Zuker-nie/zuker-nie/assets/36371577/174a8373-00e0-41d6-95e3-c6dcfe429ad8)|
-| Figma              | ![Figma]                             |
-| SQL              | ![SQL]                                 |
-| IntelliJ              | ![IntelliJ]                       |
-| Eclipse              | ![Eclipse]                         |
-| TailwindCSS          | ![TailwindCSS]                     |
-| Bootstrap            | ![Bootstrap]                       |
+| Figma              |                        |
+| SQL              |                                 |
+| IntelliJ              |                      |
+| Eclipse              |                         |
+| TailwindCSS          |                    |
+| Bootstrap            |                     |
 
 
 
